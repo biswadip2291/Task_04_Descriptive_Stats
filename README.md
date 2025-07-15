@@ -37,11 +37,6 @@ This repository contains scripts to generate descriptive statistics for the **20
    python polars_stats.py
    ```
 
-3. **For visualizations** *(optional)*:
-   ```bash
-   python visualizations.py
-   ```
-
 ---
 
 ## 📈 What the Scripts Do
